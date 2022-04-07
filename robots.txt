@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aya-rs.github.io/crabby/sitemap.xml
